@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Firebase credentials
+firebase_credentials.json
+
+# Django
+db.sqlite3
+media/
+
+# Music files
+.mp3
+
